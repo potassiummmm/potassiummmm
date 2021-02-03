@@ -14,4 +14,3 @@
 * Golang
 * OS
 * CSAPP
-* DB
