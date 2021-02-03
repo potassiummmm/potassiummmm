@@ -11,4 +11,6 @@
 * Rust
 * Go
 ## 目前的学习内容
-* 熟练Vim的使用
+* Golang
+* OS
+* CSAPP
