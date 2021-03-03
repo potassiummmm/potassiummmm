@@ -7,8 +7,6 @@
 ## 感兴趣的编程语言
 * Python
 * Java
-* Kotlin
-* Rust
 * Go
 ## 目前的学习内容
 * Golang
