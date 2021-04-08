@@ -8,7 +8,8 @@
 * Python
 * Java
 * Go
+
 ## 目前的学习内容
-* Golang
-* OS
 * CSAPP
+* DB
+* OS
