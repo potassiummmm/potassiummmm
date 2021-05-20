@@ -4,11 +4,6 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potassiummmm)](https://github.com/anuraghazra/github-readme-stats)
 
-## 感兴趣的编程语言
-* Python
-* Java
-* Go
-
 ## 目前的学习内容
 * CSAPP
 * DB
