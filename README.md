@@ -4,4 +4,4 @@
 
 ## What I'm learning
 * CSAPP
-* OS
+* CN
