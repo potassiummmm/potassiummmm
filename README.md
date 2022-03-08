@@ -3,5 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potassiummmm)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What I'm learning
-* RCA
-* CN
+* AIOps
+* DS
+* DB
